@@ -21,7 +21,7 @@ Flight Radar is an interactive web application that displays real-time flight da
 
 # 📸 Screenshot
 
-![ViteReact-GoogleChrome2025-04-2419-54-53-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/be783990-3c2c-457f-869e-dd4cdab17cba)
+
 
 
 # 📧 Contact 
